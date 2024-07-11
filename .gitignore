@@ -166,3 +166,4 @@ cython_debug/
 
 SecretsApiKeys.py
 tempdata.json
+Modules/__pycache__
